@@ -1,6 +1,6 @@
 # 🚀 Tutorials Playground
 
-This repository is my dedicated space for codebases, follow-alongs, and quick experiments built from video guides, YouTube, and technical blogs.
+This repository is my dedicated space for practical and theoretical content from videos, playlists, guides, technical blog tutorials, etc.
 
 ---
 
