@@ -27,4 +27,4 @@ My focus is split into two main pillars:
 
 | Name | Source | Keywords | Status |
 | :--- | :--- | :--- | :---: |
-| **[Example Blog Guide](./blogs/example-guide)** | Medium / Dev.to | `CSS Grid`, `Performance` | 📋 Up Next |
+| **[Design Consistent Hashing](./blogs/01-design-consistent-hashing)** | bytebytego | `System Design` | ⏳ In Progress |
